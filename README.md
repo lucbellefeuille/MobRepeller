@@ -35,6 +35,7 @@ Server-friendly. New-player proof.
 - MineColonies,
 - Animania,
 - Chococraft,
+- Caves and Cliffs,
 - Oceanic Expanse,
 - Aquatic Odyssey,
 - Better Animals Plus,
