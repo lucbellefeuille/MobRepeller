@@ -4,7 +4,7 @@ MobRepeller is a lightweight Bukkit/Spigot 1.12.2 plugin (CatServer-compatible) 
 
 Starter cores (Clay, Coal, Hay) give 25m, then Iron 50m, Gold 100m, Diamond 150m. A floating hologram shows the tier and range. Totems register when you finish the cross; breaking any arm/center near the core removes it (and its hologram).
 
-Hostiles include vanilla Monsters and creatures from popular packs like Lycanites Mobs, Ice and Fire: Dragons, Advent of Ascension (AoA3), The Twilight Forest, Mowzie’s Mobs, Grimoire of Gaia, Primitive Mobs, DivineRPG, The Betweenlands, The Erebus, AbyssalCraft, Fossils and Archeology Revival, and Tropicraft. Neutral/ambient frameworks—CustomNPCs, Citizens, MineColonies, Animania, Chococraft, Forestry (bees/butterflies), OpenBlocks utilities, Oceanic Expanse, Aquatic Odyssey, Better Animals Plus, Exotic Birds, Aquaculture 2, ZAWA (Zoo & Wild Animals), Mystical Wildlife, MyPet—are whitelisted and never shoved.
+Hostiles include vanilla Monsters and creatures from popular packs like Lycanites Mobs, Ice and Fire: Dragons, Advent of Ascension (AoA3), The Twilight Forest, Mowzie’s Mobs, Grimoire of Gaia, Primitive Mobs, DivineRPG, The Betweenlands, The Erebus, AbyssalCraft, Fossils and Archeology Revival, and Tropicraft. Neutral/ambient frameworks—CustomNPCs, Citizens, MineColonies, Animania, Chococraft, Oceanic Expanse, Aquatic Abyss, Better Animals Plus, Exotic Birds, ZAWA (Zoo & Wild Animals), Mystical Wildlife, MyPet—are whitelisted and never shoved.
 
 Players get a first-join guide book and a one-time tip on their first core block. Admins tune ranges, hostile/whitelist sets, and hologram height in config.yml. Simple.
 
@@ -13,7 +13,7 @@ Server-friendly. New-player proof.
 
 # Features
 - Totem fields
-- Core blocks & radii: Clay 25m, Coal 25m, Hay 25m, Iron 50m, Gold 100m, Diamond 150m
+- Core blocks & radius: Clay 25m, Coal 25m, Hay 25m, Iron 50m, Gold 100m, Diamond 150m
 - Hologram label shows tier + range (height configurable)
 - Removes when any nearby core block is broken (hologram despawns)
 
@@ -35,13 +35,10 @@ Server-friendly. New-player proof.
 - MineColonies,
 - Animania,
 - Chococraft,
-- Forestry (bees/butterflies),
-- OpenBlocks (utilities like Luggage),
 - Oceanic Expanse,
 - Aquatic Odyssey,
 - Better Animals Plus,
 - Exotic Birds,
-- Aquaculture 2,
 - ZAWA (Zoo & Wild Animals),
 - Mystical Wildlife,
 - MyPet
