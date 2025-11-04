@@ -90,17 +90,17 @@ Extendable through hostile.packages / hostile.types in config.yml.
 - Shape: a 2D + cross (6 blocks total) made from one core material.
 
 Clay – 25m
-
+![Clay_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/clay.png)
 Coal – 25m
-
+![Coal_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/coal.png)
 Hay – 25m
-
+![Hay_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/hay.png)
 Iron – 50m
-
+![Iron_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/iron.png)
 Gold – 100m
-
+![Gold_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/gold.png)
 Diamond – 150m
-
+![Diamond_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/diamond.png)
 
 **Commands**
 - /mobrepeller ping
