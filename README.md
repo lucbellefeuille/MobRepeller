@@ -30,58 +30,58 @@ Server-friendly. New-player proof.
 
 
 **Neutral / NPC whitelist (never pushed)**
-CustomNPCs,
-Citizens,
-MineColonies,
-Animania,
-Chococraft,
-Forestry (bees/butterflies),
-OpenBlocks (utilities like Luggage),
-Oceanic Expanse,
-Aquatic Odyssey,
-Better Animals Plus,
-Exotic Birds,
-Aquaculture 2,
-ZAWA (Zoo & Wild Animals),
-Mystical Wildlife,
-MyPet
+- CustomNPCs,
+- Citizens,
+- MineColonies,
+- Animania,
+- Chococraft,
+- Forestry (bees/butterflies),
+- OpenBlocks (utilities like Luggage),
+- Oceanic Expanse,
+- Aquatic Odyssey,
+- Better Animals Plus,
+- Exotic Birds,
+- Aquaculture 2,
+- ZAWA (Zoo & Wild Animals),
+- Mystical Wildlife,
+- MyPet
 
 **Vanilla types**
-Villager,
-Iron Golem,
-Snow Golem,
-Horses/Donkey/Mule/Llama,
-Wolf,
-Ocelot,
-Parrot,
-Rabbit,
-Chicken,
-Cow,
-Sheep,
-Pig,
-Squid,
-Bat,
-Polar Bear,
-Mooshroom
+- Villager,
+- Iron Golem,
+- Snow Golem,
+- Horses/Donkey/Mule/Llama,
+- Wolf,
+- Ocelot,
+- Parrot,
+- Rabbit,
+- Chicken,
+- Cow,
+- Sheep,
+- Pig,
+- Squid,
+- Bat,
+- Polar Bear,
+- Mooshroom
 
 You can add or remove additional neutral packs in config.yml.
 
 
 **Hostile recognition**
 Anything that is a vanilla Monster, plus well-known mob packs such as:
-Lycanites Mobs,
-Ice and Fire: Dragons,
-Advent of Ascension (AoA3),
-The Twilight Forest,
-Mowzie’s Mobs,
-Grimoire of Gaia,
-Primitive Mobs,
-DivineRPG,
-The Betweenlands,
-The Erebus,
-AbyssalCraft,
-Fossils and Archeology Revival,
-Tropicraft
+- Lycanites Mobs,
+- Ice and Fire: Dragons,
+- Advent of Ascension (AoA3),
+- The Twilight Forest,
+- Mowzie’s Mobs,
+- Grimoire of Gaia,
+- Primitive Mobs,
+- DivineRPG,
+- The Betweenlands,
+- The Erebus,
+- AbyssalCraft,
+- Fossils and Archeology Revival,
+- Tropicraft
 
 Extendable through hostile.packages / hostile.types in config.yml.
 
@@ -103,39 +103,20 @@ Diamond – 150m
 
 
 **Commands**
-/mobrepeller ping
-/mobrepeller count
-/mobrepeller list
-/mobrepeller register
-/mobrepeller save
-/mobrepeller removehere
-/mobrepeller cleanup
-/mobrepeller cleanupall
-/mobrepeller reload
-/mobrepeller debug
+- /mobrepeller ping
+- /mobrepeller count
+- /mobrepeller list
+- /mobrepeller register
+- /mobrepeller save
+- /mobrepeller removehere
+- /mobrepeller cleanup
+- /mobrepeller cleanupall
+- /mobrepeller reload
+- /mobrepeller debug
 
 
 **Configuration**
-Hostile/neutral mod sets and vanilla types are editable in config.yml.
-
-tiers:
-  CLAY: 25
-  COAL_BLOCK: 25
-  HAY_BLOCK: 25
-  IRON_BLOCK: 50
-  GOLD_BLOCK: 100
-  DIAMOND_BLOCK: 150
-
-repel:
-  tick_interval: 5
-  strength: 0.6
-  hard_eject:
-    enabled: true
-    linger_ticks: 20
-    extra_margin: 1.0
-
-hologram:
-  y_offset: 2.6
+- Hostile/neutral mod sets and vanilla types are editable in config.yml.
 
 
 **Compatibility**
@@ -144,10 +125,10 @@ hologram:
 
 
 **License & Credit**
-License: BSD 3-Clause (see LICENSE).
-Keep copyright/notice headers and credit: “MobRepeller by Luc Bellefeuille”
-Commercial redistribution is permitted by the license; attribution is required.
+- License: BSD 3-Clause (see LICENSE).
+- Keep copyright/notice headers and credit: “MobRepeller by Luc Bellefeuille”
+- Commercial redistribution is permitted by the license; attribution is required.
 
 
 **Credits**
-Design & code: Luc Bellefeuille — PRs for additional presets welcome.
+- Design & code: Luc Bellefeuille — PRs for additional presets welcome.
