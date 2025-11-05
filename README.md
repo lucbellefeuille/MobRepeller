@@ -1,4 +1,4 @@
-![MobRepeller Logo](https://github.com/lucbellefeuille/MobRepeller/blob/main/MobRepeller_logo.png)
+![MobRepeller Logo](https://github.com/lucbellefeuille/MobRepeller/blob/main/mobrepeller_bottom_400.png)
 
 # MobRepeller
 
