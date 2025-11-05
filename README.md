@@ -1,3 +1,5 @@
+![MobRepeller Logo](https://github.com/lucbellefeuille/MobRepeller/blob/main/MobRepeller_logo.png)
+
 # MobRepeller
 
 MobRepeller is a lightweight Bukkit/Spigot 1.12.2 plugin (CatServer-compatible) that keeps your base peaceful in heavily-modded worlds. Players build small “Totems” (a 2D plus sign made from a single core block) that block natural hostile spawns in a radius and gently push hostiles outward—without disturbing villagers, CustomNPCs, MineColonies citizens, pets, or neutral wildlife.
