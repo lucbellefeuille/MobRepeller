@@ -88,17 +88,17 @@ Server-friendly. New-player proof.
 - Shape: a 2D + cross (6 blocks total) made from one core material.
 
 - **Clay – 25m**
-![Clay_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/clay.png)
+![Clay_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/claytotem.png)
 - **Coal – 25m**
-![Coal_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/coal.png)
+![Coal_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/coaltotem.png)
 - **Hay – 25m**
-![Hay_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/hay.png)
+![Hay_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/haytotem.png)
 - **Iron – 50m**
-![Iron_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/iron.png)
+![Iron_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/irontotem.png)
 - **Gold – 100m**
-![Gold_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/gold.png)
+![Gold_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/goldtotem.png)
 - **Diamond – 150m**
-![Diamond_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/diamond.png)
+![Diamond_Totem](https://github.com/lucbellefeuille/mobrepeller/blob/main/diamondtotem.png)
 
 # Commands
 - /mobrepeller ping
